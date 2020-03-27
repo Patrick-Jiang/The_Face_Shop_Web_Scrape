@@ -1,0 +1,499 @@
+{
+  "1": {
+    "name": "CHIA SEED Hydro Toner",
+    "description": "Formulated with Chia Seed and Pink Vitamin (Vitamin B12) for intense, upgraded hydrating care compared to original Chia Seed line\nThis is a revamped hydrating Chia Seed Toner with added pink vitamin (B12) that efficiently removes unnecessary skin residues and delivers instant hydration to exhausted and damaged skin with moisture-rich chia seeds that draw in moisture like a magnet.\n*Dermatologically tested*",
+    "price": "27.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/h/chia-seed-hydro-toner.2019-v1.jpg",
+    "category": "Skin Care"
+  },
+  "2": {
+    "name": "CHIA SEED Hydro Lotion",
+    "description": "\n\nFormulated with Chia Seed and Pink Vitamin (Vitamin B12) for intense, upgraded hydrating care compared to original Chia Seed line\nThis is a revamped hydrating Chia Seed Lotion with added pink vitamin (B12) for a moisture-rich complexion that efficiently delivers instant nourishment to exhausted and damaged skin.\n*Dermatologically tested*\n",
+    "price": "27.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/h/chia-seed-hydro-lotion.2019.jpg",
+    "category": "Skin Care"
+  },
+  "3": {
+    "name": "CHIA SEED Hydro Cream",
+    "description": "\n\nFormulated with Chia Seed and Pink Vitamin (Vitamin B12) for intense, upgraded hydrating care compared to original Chia Seed line\nThis is a revamped Chia Seed Cream with added Vitamin B12 that delivers instant nourishment to exhausted and damaged skin. This is a hydrating gel-cream that mildly cares for inner dryness with a natural cooling effect.\n*Dermatologically tested*\n",
+    "price": "41.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/h/chia-seed-hydro-cream.2019.jpg",
+    "category": "Skin Care"
+  },
+  "4": {
+    "name": "CHIA SEED Hydrating Mist",
+    "description": "Formulated with Chia Seed and Pink Vitamin (Vitamin B12) for intense, upgraded hydrating care compared to original Chia Seed line\nRevamped Chia Seed Mist with added Vitamin B12 to deliver instant nourishment to exhausted and damaged skin. This is a mild, soothing watery mist that efficiently cares for irritated skin.\n*Dermatologically tested*\n",
+    "price": "27.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/h/chia-seed-hydro-mist.2019.jpg",
+    "category": "Skin Care"
+  },
+  "5": {
+    "name": "GREEN NATURAL SEED Antioxidant Lotion",
+    "description": "An antioxidant lotion formulated with the Green Natural Seed Formula\u2122 to soothe dry, irritated, and sensitive without leaving a sticky residue.\n*Antioxidant tested*\n*Dermatologically tested*",
+    "price": "32.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/g/r/green-natural-seed-antioxidant-lotion.jpg",
+    "category": "Skin Care"
+  },
+  "6": {
+    "name": "GREEN NATURAL SEED Antioxidant Serum",
+    "description": "An antioxidant serum formulated with the Green Natural Seed Formula\u2122 to firm dry, irritated, and sensitive skin with a healthy glow.\u00a0\n*Antioxidant tested*\n*Dermatologically tested*",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/g/r/green-natural-seed-antioxidant-serum.jpg",
+    "category": "Skin Care"
+  },
+  "7": {
+    "name": "ENERGY SEED Antioxidant Hydro Serum",
+    "description": "An essential water-type serum to replenish moisturizing & antioxidant effects that can be used in the first skincare step.\n*Antioxidant tested*\n*Dermatologically tested*",
+    "price": "38.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/e/n/energy-seed-antioxidant-serum_1.jpg",
+    "category": "Skin Care"
+  },
+  "8": {
+    "name": "Yehwadam Hwansaenggo Ultimate Rejuvenating Cream Special Set",
+    "description": "Yehwadam Hwansaenggo Ultimate Rejuvenating line is a revamped line formulated with 12 medicinal herbs, with added white truffles, and deer antlers.\nYehwadam Hwansaenggo Ultimate Rejuvenating Cream is ultra-nourishing balm-type cream which improves the skin's texture and its natural resilience to crete a more radiant look.\u00a0\nFragrance: Refreshing scent of ginseng leaves and flowers.\nTexture: Nutrient-rich texture yet highly adhering and fast absorbing.\nThis set comes with:\n\nYehwadam Hwansaenggo Ultimate Rejuvenating Cream 50ml\nYehwadam Hwansaenggo Ultimate Rejuvenating Toner 32ml\nYehwadam Hwansaenggo Ultimate Rejuvenating Emulsion 32ml\nYehwadam Hwansaenggo Ultimate Rejuvenating Serum 10ml\n",
+    "price": "109.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/h/yhd_hwansaenggo-creamset.jpg",
+    "category": "Skin Care"
+  },
+  "9": {
+    "name": "Yehwadam Hwansaenggo Ultimate Rejuvenating Toner",
+    "description": "Yehwadam Hwansaenggo Ultimate Rejuvenating line is a revamped line formulated with 12 medicinal herbs, with added white truffles, deer antlers, and fine gold particles.\nHwansaenggo Ultimate Rejuvenating Toner is dual-functional toner with ultra-nourishing \"golden\" fluid formula that creates a protective moisture barrier, balances PH levels, and evens out skin texture by providing deep moisture to make your complexion radiant.\u00a0\nFragrance: Refreshing scent of ginseng leaves and flowers.\nTexture: Nutrient-rich texture yet highly adhering and fast absorbing.",
+    "price": "60.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/h/yhd_hwansaenggo-toner_1.jpg",
+    "category": "Skin Care"
+  },
+  "10": {
+    "name": "Yehwadam Hwansaenggo Ultimate Rejuvenating Serum",
+    "description": "Yehwadam Hwansaenggo Ultimate Rejuvenating line is a revamped line formulated with 12 medicinal herbs, with added white truffles, and deer antlers.\nHwansaenggo Ultimate Rejuvenating Serum is an ultra-nourishing serum which applies effortlessly to improve elasticity for a healthy-looking complexion.\nFragrance: Refreshing scent of ginseng leaves and flowers.\nTexture: Highly concentrated formula with half-transparent essence formula that delivers a firming and moisturizing sensation.",
+    "price": "102.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/h/yhd_hwansaenggo-serum.jpg",
+    "category": "Skin Care"
+  },
+  "11": {
+    "name": "Yehwadam Hwansaenggo Ultimate Rejuvenating Emulsion",
+    "description": "Yehwadam Hwansaenggo Ultimate Rejuvenating line is a revamped line formulated with 12 medicinal herbs, with added white truffles, deer antlers, and fine gold particles.\nHwansaenggo Ultimate Rejuvenating Emulsion improves elasticity of the skin and evens out pigmentation.\nFragrance: Refreshing scent of ginseng leaves and flowers.\nTexture: Highly concentrated formula with half-transparent essence formula that delivers a firming and moisturizing sensations.\n",
+    "price": "60.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/thumbnail_yhd_hwansaenggo-emulsion.jpg",
+    "category": "Skin Care"
+  },
+  "12": {
+    "name": "Yehwadam Hwansaenggo Ultimate Rejuvenating Eye Cream",
+    "description": "Yehwadam Hwansaenggo Ultimate Rejuvenating line is a revamped line formulated with 12 medicinal herbs, with added white truffles, and deer antlers.\nHwansaenggo Ultimate Rejuvenating eye cream is ultra-nourishing which adheres to the skin to provide instant moisture and to improve elasticity around the delicate eye area.\nFragrance: Refreshing scent of ginseng leaves and flowers.\nTexture: Nutrient-rich texture yet highly adhering and fast absorbing.\n",
+    "price": "102.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/thumbnail_yhd_hwansaenggo-cream.jpg",
+    "category": "Skin Care"
+  },
+  "13": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Oil Ampoule ",
+    "description": "A premium deep moisturizing anti-aging oil packed with the energy of wild Korean herbs, providing rich nutrients and a radiant glow to dry skin that lack elasticity.\u00a0\n\nAbout Yehwadam Regenerating:\u00a0Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.",
+    "price": "60.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam_hgg_oil.jpg",
+    "category": "Skin Care"
+  },
+  "14": {
+    "name": "GREEN NATURAL SEED Antioxidant Cream",
+    "description": "A high-quality antioxidant cream formulated with seed-derived Tocopherol that has mild yet effective EWG Green Grade ingredients.\n*Antioxidant tested*\n*Dermatologically tested*",
+    "price": "48.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/g/r/green-natural-seed-antioxidant-cream.jpg",
+    "category": "Skin Care"
+  },
+  "15": {
+    "name": "GREEN NATURAL SEED Antioxidant Toner",
+    "description": "An antioxidant toner which helps to create fully hydrated skin and relieves the stressors due to dry circumstances.\n*Antioxidant tested*\n*Dermatologically tested*\n",
+    "price": "32.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/g/r/green-natural-seed-antioxidant-toner.jpg",
+    "category": "Skin Care"
+  },
+  "16": {
+    "name": "DR.BELMEUR Amino Clear Peeling Pad",
+    "description": "A low-irritant peeling toner formula infused with amino acid helps to remove excess oil, dead skin cells and impurities to create a smoother complexion. The peeling toner and 60 exfoliating pads are meant for daily use (if you have sensitive skin, it is recommended to use the peeling toner 2-3 times a week). The product combines the exfoliating effect with skincare function, as the formula covers the toner step.\nSkin type:\u00a0 All skin types. Suitable for sensitive skin.\nFragrance: refreshing citrus herbal scent of rosemary, bergamot and eucalyptus. \u00a0\nPads texture: double-sided pad with gauze side for intense care of dull skin with excess dead skin cells (not suitable for sensitive skin) and embossed side gentle peeling effect. \u00a0\nPeeling water: transparent, watery texture which is being absorbed by the pads.\u00a0\nDermatologically tested.\u00a0",
+    "price": "34.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-amino-peeling-pad.jpg",
+    "category": "Skin Care"
+  },
+  "17": {
+    "name": "JEJU Aloe Fresh Soothing Gel",
+    "description": "Formulated with 99% Aloe Vera Leaf Extract from Jeju island to soothe and moisturize the skin! This gel can be used for various purposes, including moisturizing, soothing, facial pack, and after-sun care. As Aloe Vera Leaf Extract is absored into the skin without leaving any sticky residue behind, it soothes and moisturizes at the same time. Formulated without five additives: parabens, benzophenone, animal-derived ingredients, mineral oil, artifical colouring.\u00a0\n",
+    "price": "8.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/j/e/jeju-aloe-fresh-soothing-gel-32300361.jpg",
+    "category": "Skin Care"
+  },
+  "18": {
+    "name": "DR.BELMEUR Daily Repair Rehydrating Mist",
+    "description": "This mist soothes sensitive skin and consistently moisturizes skin in need of hydration. Formulated with the daily low-irritant moisturizing solution Skin-sync Rx\u2122 which its 3 key ingredients help form a moisture layer to calm dry skin : shea butter, moroheiya and birch tree sap.*Formulated without 10 additives (parabens synthetic pigments, phenoxyethanol, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, ethanol, talc, benzoic acid) or artificial fragranceAbout Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Daily Repair offers a custom-made formula that helps improve sensitive skin.\u00a0\u00a0\u00a0\n",
+    "price": "20.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/r/dr.belmeur-daily-repair-rehydrating-mist-34420120.jpg",
+    "category": "Skin Care"
+  },
+  "19": {
+    "name": "THE THERAPY Secret-made Anti-Aging Eye Treatment",
+    "description": "This soft moisturizing cream provides one-step care to deliver hydration, firmness and illumination to skin around the eyes. It promotes elasticity and reduces the appearance of wrinkles around the eyes.\u00a0Formulated with:Oat seed: Has anti-inflammatory effects and gathers moisture to provide deep moisturizationMarigold Flowers: Has anti-oxidant effects, makes skin look soft and fairBay Leaves: Provides calming and purifying effects on sensitive skin + astringent effectsOlives: Rich in unsaturated fatty acids, it calms skin inflammation + natural moisturizer that prevents drynessAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\n",
+    "price": "50.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-secret-made-anti-aging-eye-treatment-34300098.jpg",
+    "category": "Skin Care"
+  },
+  "20": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Eye Cream",
+    "description": "Nourishing eye cream infused with nutrients that brings firmness and reduces wrinkles around the eye area.\u00a0Formulated with Korean herbs: Heaven Grade Ginseng from Geumsan (considered the highest class of ginseng, this red ginseng is aged 6 years and has a greater amount of saponin than other ginseng. It promotes growth of new cells to improve resilience and exfoliate dead skin cells) and Natural Pine Mushroom from Gagwon-do (rich in antioxidants, minerals and vitamins, it helps promote skin regeneration).About Yehwadam Regenerating:\u00a0 Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "80.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-heaven-grade-ginseng-creme-pour-les-yeux-regeneratrice-34400010.jpg",
+    "category": "Skin Care"
+  },
+  "21": {
+    "name": "YEHWADAM Revitalizing Eye Cream",
+    "description": "Revitalizes skin around the eyes with a soft texture to minimize the appearance of fine lines and dark circles. Formulated with Korean herbs: Safflower from Sancheong (improves skin tone and promotes blood circulation), Ginseng from Punggi (restore youthful skin, some say ginseng is the secret to younger looking skin) and Goji Berries from Cheongyang (antioxidant that fights fine lines and wrinkles and fortifies natural resilience of skin, for a radiant and glowing skin).About Yehwadam Revitalizing: Early anti-aging skincare line that brings out skin\u2019s innate healthy glow with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.The perfect skincare range that prevents the signs of premature aging, the Revitalizing line makes dull skin radiant again. YEHWADAM contains ingredients obtained from Korea improve skin luminosity.\n",
+    "price": "68.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-creme-pour-les-yeux-revitalisante-34400036.jpg",
+    "category": "Skin Care"
+  },
+  "22": {
+    "name": "WHITE SEED Brightening Toner",
+    "description": "This translucent, brightening toner helps brighten the skin and clear away dullness without leaving a sticky residue. The compound of brightening ingredients:\u00a0 White Lupin Seed, which contains a natural brightening substance, and White Daisy Flower extract, which helps reducing dullness, makes the skin look bright and clear.\u00a0\n\nFormulated without 7 additives: parabens, tar colorant, animal-sourced ingredients, mineral oil, talc, polyacrylamide, paraffin\n\nAbout White Seed : Botanical skincare line that moisturizes the skin while improving skin texture and clarity. White seed is formulated with White Lupine Seed which contains natural brightening ingredient to reduce dullness of skin to appear more luminous by controlling melanin formation.",
+    "price": "32.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/w/h/white-seed-lotion-tonique-eclaircissante-34100291_1.jpg",
+    "category": "Skin Care"
+  },
+  "23": {
+    "name": "WHITE SEED Brightening Serum",
+    "description": "This smooth, brightening serum effectively penetrates into skin, giving it a boost of radiance and brightness. The compound of brightening ingredients:\u00a0 White Lupin Seed, which contains a natural brightening substance, and White Daisy Flower extract, which helps reducing dullness, makes the skin look bright and clear.\u00a0Formulated without 7 additives: parabens, tar colorant, animal-sourced ingredients, mineral oil, talc, polyacrylamide, paraffinAbout White Seed : Botanical skincare line that moisturizes the skin while improving skin texture and clarity. White seed is formulated with White Lupine Seed which contains natural brightening ingredient to reduce dullness of skin to appear more luminous by controlling melanin formation.",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/w/h/white-seed-serum-eclaircissant-34100293_1.jpg",
+    "category": "Skin Care"
+  },
+  "24": {
+    "name": "Peat miracle eye cream",
+    "description": "Our belief to support natural skin turnover, treating and nourishing the eye area. This velvety textured eye cream contains mineral-rich peat extract- a rare blend of 80 different herbs deposited over millennia in uncontaminated glacial pools of the Northern European tundras that helps to increase skin elasticity around the eyes, leaving it visibly smooth and plump.\u00a0Humic acid of peat extract in Peat miracle revital eye cream plumps up the eye area.\n",
+    "price": "71.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/p/e/peat-miracle-eye-cream-52100545.jpg",
+    "category": "Skin Care"
+  },
+  "25": {
+    "name": "THE THERAPY Essential tonic treatment ",
+    "description": "Toner and anti-aging treatment 2-in-1 that tones, boost and evens rough and flaky skin, while delivering essential oil for anti-aging treatment effects.\u00a0Formulated with:Oat seed: Has anti-inflammatory effects and gathers moisture to provide deep moisturizationMarigold Flowers: Has anti-oxidant effects, makes skin look soft and fairBay Leaves: Provides calming and purifying effects on sensitive skin + astringent effectsOlives: Rich in unsaturated fatty acids, it calms skin inflammation + natural moisturizer that prevents drynessAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\n",
+    "price": "43.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-traitement-tonique-essentiel-34300002.jpg",
+    "category": "Skin Care"
+  },
+  "26": {
+    "name": "Moisturizing and firming eye cream",
+    "description": "Enhanced moisture retention rate\n\nA hydrating and nourishing eye treatment that provides long-lasting moisture and firmness to the delicate eye area.\n\nThis ultra-hydrating and firming eye cream provides lasting hydration and elasticity to the delicate eye area without heaviness. It is formulated with natural oils, including cupuacu seed butter and macadamia nut oil, which help to keep the eye area looking youthful, supple and firm.\n\nWhat it is formulated WITHOUT:\nParabens Sulfates Phthalates \nWhat else you need to know:\nThis product is dermatologist and ophthalmologist tested. It is free of mineral oil, petrolatum, synthetic preservatives, dyes, and fragrances, and animal origin ingredients.",
+    "price": "59.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/r/creme-yeux-hydratante-et-raffermissante-52100593.jpg",
+    "category": "Skin Care"
+  },
+  "27": {
+    "name": "THE THERAPY Essential Formula Emulsion ",
+    "description": "This anti-aging emulsion leaves rough, uneven skin feeling supple and moisturized. Provides radiant and supple skin with a natural oil and moisture layer.Formulated with:Oat seed: Has anti-inflammatory effects and gathers moisture to provide deep moisturizationMarigold Flowers: Has anti-oxidant effects, makes skin look soft and fairBay Leaves: Provides calming and purifying effects on sensitive skin + astringent effectsOlives: Rich in unsaturated fatty acids, it calms skin inflammation + natural moisturizer that prevents drynessAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\n",
+    "price": "38.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-emulsion-formule-essentielle-34300003.jpg",
+    "category": "Skin Care"
+  },
+  "28": {
+    "name": "JEJU VOLCANIC LAVA Pore Toner ",
+    "description": "Perfect your skin with this pore toner. It contains volcanic ash from Jeju Island with sebum-absorbing effects to give you smooth, soft skin without any shine.About Jeju Volcanic Lava : This purifying pore line contains volcanic ash from Jeju Island, a rare natural ingredient that effectively absorbs sebum and cleanses the pores, and an urban defense complex to protect skin from pollution and make it clean and clear.\n",
+    "price": "30.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/j/e/jeju-volcanic-lava-lotion-tonique-pour-les-pores-34350036_1.jpg",
+    "category": "Skin Care"
+  },
+  "29": {
+    "name": "First Aid 360 eye care mask",
+    "description": "A leave-on, intensively moisturizing mask with a pudding-like texture that provides a 360-degree eye care for delicate and sensitive eye areas.",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/f/i/first-aid-360-eye-care-mask-52100894.jpg",
+    "category": "Skin Care"
+  },
+  "30": {
+    "name": "THE THERAPY Oil-Drop Anti-Aging Serum ",
+    "description": "This highly functional serum is formulated with a natural essential oil process using the oil drop technology to help the skin absorb it more quickly and improve skin condition. It rejuvenates the skin via deep moisturizing.Formulated with:Oat seed: Has anti-inflammatory effects and gathers moisture to provide deep moisturizationMarigold Flowers: Has anti-oxidant effects, makes skin look soft and fairBay Leaves: Provides calming and purifying effects on sensitive skin + astringent effectsOlives: Rich in unsaturated fatty acids, it calms skin inflammation + natural moisturizer that prevents drynessAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\n",
+    "price": "47.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-serum-anti-age-compte-gouttes-34300004.jpg",
+    "category": "Skin Care"
+  },
+  "31": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Toner",
+    "description": "Regenerating toner fills lifeless, sagging skin with elasticity. Formulated with Korean herbs: Heaven Grade Ginseng from Geumsan (considered the highest class of ginseng, this red ginseng is aged 6 years and has a greater amount of saponin than other ginseng. It promotes growth of new cells to improve resilience and exfoliate dead skin cells) and Natural Pine Mushroom from Gagwon-do (rich in antioxidants, minerals and vitamins, it helps promote skin regeneration).\u00a0About Yehwadam Regenerating:\u00a0 Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "51.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-heaven-grade-ginseng-lotion-tonique-regeneratrice-34400028.jpg",
+    "category": "Skin Care"
+  },
+  "32": {
+    "name": "THE THERAPY Water Drop Anti-Aging Moisturizing Serum",
+    "description": "This ultimate moisturizing serum takes care of moisturizing and anti-aging needs at the same time. It is formulated with water drops containing a rich anti-aging blending formula to smooth the skin by forming a protective layer of moisture.Formulated with:Oat Seed: Has anti-inflammatory effects and gathers moisture to provide deep moisturizationLavender: Has anti-inflammatory and soothing effects\u00a0Wild Rose: Soothing effect and clears skin while treating wrinklesBasil Leaves: Powerful antioxidant and soothing effectsAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\u00a0\n",
+    "price": "50.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-serum-compte-goutte-hydratant-anti-age-34300035.jpg",
+    "category": "Skin Care"
+  },
+  "33": {
+    "name": "YEHWADAM Revitalizing Toner",
+    "description": "Replenishes dry skin with moisture and revitalizes skin to its natural radiance to prevent the signs of premature aging . Formulated with Korean herbs: Safflower from Sancheong (improves skin tone and promotes blood circulation), Ginseng from Punggi (restore youthful skin, some say ginseng is the secret to younger looking skin) and Goji Berries from Cheongyang (antioxidant that fights fine lines and wrinkles and fortifies natural resilience of skin, for a radiant and glowing skin).About Yehwadam Revitalizing: Early anti-aging skincare line that brings out skin\u2019s innate healthy glow with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n\n",
+    "price": "44.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-lotion-tonique-revitalisante-34400032.jpg",
+    "category": "Skin Care"
+  },
+  "34": {
+    "name": "JEJU VOLCANIC LAVA Pore Serum",
+    "description": "Step up your skincare ritual to get pure, flawless skin, by applying a serum right after your toner. This pore essence with volcanic ash from Jeju Island controls shine and perfects the pores.About Jeju Volcanic Lava : This purifying pore line contains volcanic ash from Jeju Island, a rare natural ingredient that effectively absorbs sebum and cleanses the pores, and an urban defense complex to protect skin from pollution and make it clean and clear.\n",
+    "price": "37.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/j/e/jeju-serum.jpg",
+    "category": "Skin Care"
+  },
+  "35": {
+    "name": "YEHWADAM Pure Brightening Toner",
+    "description": "The light-texture brightening toner glides on gently to illuminate and moisturize dull, dry skin.\u00a0About Yehwadam Brightening: Anti-aging skincare line that brightens skin while providing moisture with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.",
+    "price": "51.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-pure-brightening-toner-34400083.jpg",
+    "category": "Skin Care"
+  },
+  "36": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Serum",
+    "description": "Regenerating serum delivers moisture and elasticity deep into skin as it closely adheres to skin, as if it were wrapping it in a protective film. Formulated with Korean herbs: Heaven Grade Ginseng from Geumsan (considered the highest class of ginseng, this red ginseng is aged 6 years and has a greater amount of saponin than other ginseng. It promotes growth of new cells to improve resilience and exfoliate dead skin cells) and Natural Pine Mushroom from Gagwon-do (rich in antioxidants, minerals and vitamins, it helps promote skin regeneration).About Yehwadam Regenerating:\u00a0Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "82.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-heaven-grade-ginseng-serum-regenerateur-34400030.jpg",
+    "category": "Skin Care"
+  },
+  "37": {
+    "name": "YEHWADAM Revitalizing Serum",
+    "description": "Revitalizing serum that makes the skin look radiant and revitalized to prevent the signs of premature aging . Formulated with Korean herbs: Safflower from Sancheong (improves skin tone and promotes blood circulation), Ginseng from Punggi (restore youthful skin, some say ginseng is the secret to younger looking skin) and Goji Berries from Cheongyang (antioxidant that fights fine lines and wrinkles and fortifies natural resilience of skin, for a radiant and glowing skin).About Yehwadam Revitalizing: Early anti-aging skincare line that brings out skin\u2019s innate healthy glow with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "72.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-serum-revitalisant-34400034.jpg",
+    "category": "Skin Care"
+  },
+  "38": {
+    "name": "DR.BELMEUR Daily Repair Toner",
+    "description": "A mild toner that calms skin and boosts moisture. Formulated with the daily low-irritant moisturizing solution Skin-sync Rx\u2122 which its 3 key ingredients help form a moisture layer to calm dry skin : phytoshpingosine (protects and strengthens skin barrier), moroheiya (retains moisture by restoring moisture in skin\u2019s barrier) and birch tree sap (calms redness & soothes skin).*Formulated without 9 additives (parabens, synthetic pigments, triethanolamine, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, talc, benzoic acid) or artificial fragrance\u00a0About Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Daily Repair offers a custom-made formula that helps improve sensitive skin.\n",
+    "price": "31.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/r/dr.belmeur-daily-repair-toner-34420003_1.jpg",
+    "category": "Skin Care"
+  },
+  "39": {
+    "name": "YEHWADAM Pure Brightening Serum",
+    "description": "The silky lightening serum deeply hydrates the skin and reduces the appearance of age spots and pigmentation with the help of pearl powder.About Yehwadam Brightening: Anti-aging skincare line that brightens skin while providing moisture with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.",
+    "price": "82.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-pure-brightening-serum-34400085.jpg",
+    "category": "Skin Care"
+  },
+  "40": {
+    "name": "DR.BELMEUR Clarifying Toner",
+    "description": "The low-irritant clarifying toner takes care of excess oil and enlarged pores while maintaining skin's oil and moisture balance. Custom-made formula Skin-sync Rx\u2122 composed of betaglucan (maintains optimal moisture balance), chaga mushroom extract (soothes and calms skin), blue citrus peel extract (controls excess sebum).*Formulated without 9 additives (parabens, synthetic pigments, artificial fragrance, triethanolamine, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, talc) or artificial fragranceAbout Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Clarifying collection offers a custom-made formula that helps improve oily and acne-prone skin.\n",
+    "price": "31.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/r/dr.belmeur-clarifying-toner-34420042.jpg",
+    "category": "Skin Care"
+  },
+  "41": {
+    "name": "DR.BELMEUR ADVANCED CICA Recovery Serum",
+    "description": "This silky anti-aging serum strengthens the skin barrier and promotes skin elasticity. Custom-made formula Skin-sync Rx\u2122, containing ceramide, panthenol, centella asiatica extract and 3 other effective ingredients that improves the skin barrier to strengthen the skin\u2019s own energy.About Dr.Belmeur CICA Recovery: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Advanced CICA Recovery collection offers a custom-made formula that helps improve damaged skin.",
+    "price": "55.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/i/cica_serum.jpg",
+    "category": "Skin Care"
+  },
+  "42": {
+    "name": "Witch hazel herbal extract toner",
+    "description": "A toner formulated with witch hazel to hydrate dry, dull skin, leaving it hydrated, soothed, and balanced after cleansing.",
+    "price": "34.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/l/o/lotion-tonique-a-lextrait-dhamamelis-52100605.jpg",
+    "category": "Skin Care"
+  },
+  "43": {
+    "name": "Peat miracle serum",
+    "description": "Our belief to revitalize natural turnover and care for early signs of aging to reveal youthful, smooth skin. This supercharged serum is packed with 20% concentrated peat extract and active anti-oxidants that have been clinically tested to improve skin turnaround, visibly improving fine lines and rough texture.\u00a0\n",
+    "price": "74.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/p/e/peat-miracle-revital-serum-concentrate.jpg",
+    "category": "Skin Care"
+  },
+  "44": {
+    "name": "Bergamot herbal extract toner",
+    "description": "A toner formulated with bergamot and sage to balance normal to combination skin, leaving it hydrated, soothed, and balanced after cleansing.",
+    "price": "34.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/l/o/lotion-tonique-a-lextrait-de-bergamote-52100606.jpg",
+    "category": "Skin Care"
+  },
+  "45": {
+    "name": "Hungarian water essence",
+    "description": "Lightweight hydrating serum? Yes!\n\nAn instant, lightweight hydration serum that is powerfully effective for deep, lasting hydration.\n\nHungarian Water Essence recharges skin\u2019s lost hydration back in an instant. This formula contains a blend of apothecary herbs, including rosemary and lavender\u2014powerful hydrating and antioxidant agents. This ultra-light watery texture instantly glides onto skin to provide a burst of powerful moisture that penetrates the skin for long-lasting hydration, leaving the skin healthy-looking, soft, and supple.\nWhat it is formulated WITHOUT:\nParabens Sulfates Phthalates \nWhat else you need to know:\nThis dermatologist tested product is free of mineral oil, petrolatum, synthetic preservatives, dyes, and fragrances, and animal origin ingredients.",
+    "price": "51.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/e/s/essence-a-leau-de-hongrie-52100595.jpg",
+    "category": "Skin Care"
+  },
+  "46": {
+    "name": "Eucalyptus herbal extract toner",
+    "description": "\nA toner formulated with eucalyptus and apple mint to leave skin toned,\u00a0balanced,\u00a0and soothed after cleansing.\n",
+    "price": "34.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/l/o/lotion-tonique-a-lextrait-deucalyptus-52100607.jpg",
+    "category": "Skin Care"
+  },
+  "47": {
+    "name": "Classic essence increment",
+    "description": "Enhanced skin elasticity and retains moisture for up to 24 hours\n\nA nutrient-dense essence that nourishes and hydrates to improve skin elasticity, tone, and texture.\n\nClassic Essence Increment instantly breathes life into skin by providing essential nutrients and vitamins to a dry, depleted complexion. Clinically tested to provide up to 24 hours of moisture, this highly-nourishing formula restores the skin\u2019s natural moisture barrier to keep skin supple and elastic, restoring an even tone and smooth texture. Formulated with heartsease and catnip, natural hydrating agents, and chickweed, a vitamin-rich apothecary herb, it leaves skin fully invigorated and energized.\n\nWhat it is formulated WITHOUT:\nParabens Sulfates Phthalates \nWhat else you need to know:\nThis dermatologist tested product is free of mineral oil, petrolatum, synthetic preservatives, dyes, and fragrances, and animal origin ingredients.",
+    "price": "57.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/e/s/essence-classique-supreme-52100599.jpg",
+    "category": "Skin Care"
+  },
+  "48": {
+    "name": "WHITE SEED Brightening Lotion",
+    "description": "Smooth, moisture-rich brightening lotion replenishes skin's moisture barrier and gives skin a luminous glow, leaving it looking bright and radiant for hours. The compound of brightening ingredients:\u00a0 White Lupin Seed, which contains a natural brightening substance, and White Daisy Flower extract, which helps reducing dullness, makes the skin look bright and clear.\u00a0Formulated without 7 additives: parabens, tar colorant, animal-sourced ingredients, mineral oil, talc, polyacrylamide, paraffinAbout White Seed : Botanical skincare line that moisturizes the skin while improving skin texture and clarity. White seed is formulated with White Lupine Seed which contains natural brightening ingredient to reduce dullness of skin to appear more luminous by controlling melanin formation.\n",
+    "price": "32.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/w/h/white-seed-lotion-eclaircissante-34100292.jpg",
+    "category": "Skin Care"
+  },
+  "49": {
+    "name": "THE THERAPY Oil Blending Formula Cream ",
+    "description": "Anti-aging, anti-drying and ultra nourishing effects in one product. A sumptuous anti-aging 2-layers cream that contains a blend of essential oils used by European beauty therapists.\u00a0 The top layer is formulated with essentials oils and the bottom layer with ultra-nourishing cream.Formulated with:Sandalwood: Medicinal plant with anti-aging and rejuvenation propertiesAvocado: Creates a long lasting moisture barrier on the skin and prevents moisture loss for extremely dry, chapped skinPalmarosa: Delivers vitality and elasticity and treats damaged skinAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\n",
+    "price": "58.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-creme-formulee-dun-melange-dhuiles-34300089_1.png",
+    "category": "Skin Care"
+  },
+  "50": {
+    "name": "THE THERAPY Moisture Blending Formula Cream",
+    "description": "Anti-aging, anti-drying and ultra nourishing effects in one product. This luxurious anti-aging, intense moisturising cream contains a blend of French Sea Water and natural essential oils. It has two layers: the top layer is formulated with a lightweight essential oil, the bottom layer with intense moisturizing cream. Hand-blended ingredients are combined to create a luxurious cream that feels soft and gently melts into skin for intense hydration.Formulated with:Sandalwood: Medicinal plant with anti-aging and rejuvenation propertiesAvocado: Creates a long lasting moisture barrier on the skin and prevents moisture loss for extremely dry, chapped skinPalmarosa: Delivers vitality and elasticity and treats damaged skinSea Water: Promotes skin hydratation and makes the skin more moisturized and healthyAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\n",
+    "price": "61.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-creme-formulee-dun-melange-hydratant-34300100.png",
+    "category": "Skin Care"
+  },
+  "51": {
+    "name": "THE THERAPY Hydrating Formula Emulsion",
+    "description": "A moisture-boosting emulsion that hydrates and provides anti-aging benefits at the same time. This emulsion contains essential moisturizing ingredients to help relieve dry skin and leave it feeling supple and smooth. The quick-absorbing lightweight formula leaves no sticky residue.Formulated with:Oat Seed: Has anti-inflammatory effects and gathers moisture to provide deep moisturizationLavender: Has anti-inflammatory and soothing effects\u00a0Wild Rose: Soothing effect and clears skin while treating wrinklesBasil Leaves: Powerful antioxidant and soothing effectsAbout The Therapy : Anti-aging skincare line that embodies a two-century-old European natural blending method from Le Marche, Italy. The use of oat seeds, marigold, bay leaf and olive extracts keep skin looking youthful.\u00a0\n",
+    "price": "38.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-therapy-hydrating-formula-emulsion-34300114.png",
+    "category": "Skin Care"
+  },
+  "52": {
+    "name": "JEJU VOLCANIC LAVA Pore Lotion",
+    "description": "Lightweight lotion provides an oil-absorbing effect leaving your skin fresh and hydrated.About Jeju Volcanic Lava : This purifying pore line contains volcanic ash from Jeju Island, a rare natural ingredient that effectively absorbs sebum and cleanses the pores, and an urban defense complex to protect skin from pollution and make it clean and clear.\n",
+    "price": "35.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/j/e/jeju-volcanic-lava-pore-lotion-34350035_1.jpg",
+    "category": "Skin Care"
+  },
+  "53": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Cream",
+    "description": "Nourishing and firming cream that creates a protective layer and prevents moisture loss to keep the skin moisturized and smooth.\u00a0Formulated with Korean herbs: Heaven Grade Ginseng from Geumsan (considered the highest class of ginseng, this red ginseng is aged 6 years and has a greater amount of saponin than other ginseng. It promotes growth of new cells to improve resilience and exfoliate dead skin cells) and Natural Pine Mushroom from Gagwon-do (rich in antioxidants, minerals and vitamins, it helps promote skin regeneration).About Yehwadam Regenerating:\u00a0Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n\n",
+    "price": "82.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-heaven-grade-ginseng-creme-regeneratrice-34400009.jpg",
+    "category": "Skin Care"
+  },
+  "54": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Emulsion",
+    "description": "Regenerating emulsion provides a strong protective film over skin by moisturizing skin from deep within. Formulated with Korean herbs: Heaven Grade Ginseng from Geumsan (considered the highest class of ginseng, this red ginseng is aged 6 years and has a greater amount of saponin than other ginseng. It promotes growth of new cells to improve resilience and exfoliate dead skin cells) and Natural Pine Mushroom from Gagwon-do (rich in antioxidants, minerals and vitamins, it helps promote skin regeneration). Also contains shea butter and macadamia nut oil to help the skin retain moisture.About Yehwadam Regenerating:\u00a0 Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "51.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-heaven-grade-ginseng-emulsion-regeneratrice-34400029.jpg",
+    "category": "Skin Care"
+  },
+  "55": {
+    "name": "YEHWADAM Revitalizing Emulsion",
+    "description": "Revitalizing emulsion that provides long lasting moisturizing and nourishing protection to the skin's barrier to prevent the signs of premature aging. Formulated with Korean herbs: Safflower from Sancheong (improves skin tone and promotes blood circulation), Ginseng from Punggi (restore youthful skin, some say ginseng is the secret to younger looking skin) and Goji Berries from Cheongyang (antioxidant that fights fine lines and wrinkles and fortifies natural resilience of skin, for a radiant and glowing skin).About Yehwadam Revitalizing: Early anti-aging skincare line that brings out skin\u2019s innate healthy glow with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "44.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-emulsion-revitalisante-34400033.jpg",
+    "category": "Skin Care"
+  },
+  "56": {
+    "name": "YEHWADAM Revitalizing Cream",
+    "description": "Replenishes skin with moisture and restores firmness while creating a protective layer to prevent any moisture loss. Formulated with Korean herbs: Safflower from Sancheong (improves skin tone and promotes blood circulation), Ginseng from Punggi (restore youthful skin, some say ginseng is the secret to younger looking skin) and Goji Berries from Cheongyang (antioxidant that fights fine lines and wrinkles and fortifies natural resilience of skin, for a radiant and glowing skin).About Yehwadam Revitalizing: Early anti-aging skincare line that brings out skin\u2019s innate healthy glow with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "72.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-creme-revitalisante-34400035.jpg",
+    "category": "Skin Care"
+  },
+  "57": {
+    "name": "YEHWADAM Pure Brightening  Emulsion",
+    "description": "The brightening emulsion deeply infused with moisture, brightens skin tone and improves the appearance of dull, pigmented skin.\u00a0About Yehwadam Brightening: Anti-aging skincare line that brightens skin while providing moisture with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.",
+    "price": "51.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-pure-brightening--emulsion-34400084.jpg",
+    "category": "Skin Care"
+  },
+  "58": {
+    "name": "YEHWADAM Pure Brightening Cream ",
+    "description": "The brightening cream instantly boosts skin\u2019s radiance and reduces the appearance of age spots and pigmentation.About Yehwadam Brightening: Anti-aging skincare line that brightens skin while providing moisture with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.",
+    "price": "82.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-pure-brightening-cream-34400086.jpg",
+    "category": "Skin Care"
+  },
+  "59": {
+    "name": "YEHWADAM Revitalizing Moisturizing  Fluid",
+    "description": "Formulated with Fresh Flower Water, a secret formula that consists of 5 types of traditional herbal ingredients including Korean Ginseng, Safflower and Goji berries, the revitalizing moisturizing fluid is a water-based, all-in-one product combing toner and lotion together for easy yet effective and long-lasting moisture.\u00a0",
+    "price": "41.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-revitalizing-moisturizing-fluid.jpg",
+    "category": "Skin Care"
+  },
+  "60": {
+    "name": "YEHWADAM Revitalizing Moisturizing Cream",
+    "description": "Formulated with Fresh Flower Water, a secret formula that consists of 5 types of traditional herbal ingredients including Korean Ginseng, Safflower and Goji berries, this revitalizing moisturizing cream is a\u00a0 lightweight gel cream that deeply hydrates the skin without leaving a sticky sensation.\u00a0",
+    "price": "55.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-revitalizing-moisturizing-cream.jpg",
+    "category": "Skin Care"
+  },
+  "61": {
+    "name": "DR.BELMEUR Daily Repair Moisturizer ",
+    "description": "A low-irritant moisturizer that calms sensitive skin and protects skin damaged by the external environment. Formulated with the daily low-irritant moisturizing solution Skin-sync Rx\u2122 which its 3 key ingredients help form a moisture layer to calm dry skin : phytoshpingosine (protects and strengthens skin barrier), moroheiya (retains moisture by restoring moisture in skin\u2019s barrier) and birch tree sap (calms redness & soothes skin).\n\n*Formulated without 9 additives (parabens, synthetic pigments, triethanolamine, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, talc, benzoic acid) or artificial fragrance\u00a0\n\nAbout Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Daily Repair offers a custom-made formula that helps improve sensitive skin.",
+    "price": "36.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/r/dr.belmeur-daily-repair-moisturizer-34420004_1.jpg",
+    "category": "Skin Care"
+  },
+  "62": {
+    "name": "DR.BELMEUR Daily Repair Ato Salt Cream",
+    "description": "Mineral salt cream that provides deep moisturization and itch relief for dry & flaky skin, while strenghtening the protective function of the skin. Contains 8% sea salt that soothes itchiness and peony extract, phytosphingosine and ceramide that deeply moisturize the skin.\u00a0*Formulated without 10 additives (parabens synthetic pigments, phenoxyethanol, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, ethanol, talc, benzoic acid) or artificial fragranceAbout Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Daily Repair offers a custom-made formula that helps improve sensitive skin.\n",
+    "price": "48.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/j/a/jar.jpg",
+    "category": "Skin Care"
+  },
+  "63": {
+    "name": "DR.BELMEUR Clarifying Moisturizer",
+    "description": "This low-irritant clarifying moisturizer takes care of excess oil and maintains skin's oil and moisture balance. Custom-made formula Skin-sync Rx\u2122 composed of betaglucan (maintains optimal moisture balance), chaga mushroom extract (soothes and calms skin), blue citrus peel extract (controls excess sebum).*Formulated without 8 additives (parabens, synthetic pigments, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, talc, benzoic acid) or artificial fragranceAbout Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Clarifying collection offers a custom-made formula that helps improve oily and acne-prone skin.\u00a0\n",
+    "price": "34.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/3/4/34420043moisturizing.jpg",
+    "category": "Skin Care"
+  },
+  "64": {
+    "name": "DR.BELMEUR ADVANCED CICA Recovery Cream",
+    "description": "Recovery cream that provides intense care by creating a barrier similar to the skins to moisturize and improve damaged skin. Custom-made formula Skin-sync Rx\u2122, containing ceramide, panthenol, centella asiatica extract and 3 other effective ingredients that improves the skin barrier to strengthen the skin\u2019s own energy.Formulated without 9 additives (synthetic pigments, artificial fragrance, phenoxyethanol, triethanolamine, mineral oil, benzophenone-3, ethanol, talc, benzoic acid)100% natural fragrance- soft citrus floral scentAbout Dr.Belmeur CICA Recovery: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Advanced CICA Recovery collection offers a custom-made formula that helps improve damaged skin.\n",
+    "price": "55.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/i/cica_cream_2.jpg",
+    "category": "Skin Care"
+  },
+  "65": {
+    "name": "Peat miracle cream",
+    "description": "Our belief to support natural skin turnover, helping to turnaround dull, tired skin to reveal a youthful smooth complexion. This nourishing moisturizer deeply hydrates and treats dry, dull, and depleted skin.Peat miracle revital cream contains peat extract and improves your turnover rate by 9.28%, rejuvenating and hydrating your skin.\n",
+    "price": "71.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/p/e/peat-miracle-revital-cream.jpg",
+    "category": "Skin Care"
+  },
+  "66": {
+    "name": "The True Cream Moisturizing Bomb",
+    "description": "A comforting moisturizing cream for normal to dry skin types that provides the skin with intense hydration, leaving it supple, smooth, and deeply nourished.",
+    "price": "50.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/o/mo-bomb.jpg",
+    "category": "Skin Care"
+  },
+  "67": {
+    "name": "The True Cream Aqua Bomb",
+    "description": "A gel-cream that 'floods' the skin with a rush of refreshing hydration and minimizes the appearance of pores for soft, smooth, supple skin. Perfect for normal to combination skin types, including oily and dry skin looking for a lightweight moisturizer.",
+    "price": "50.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/a/-/a-bomb.jpg",
+    "category": "Skin Care"
+  },
+  "68": {
+    "name": "Creamy moisturizer deep moist",
+    "description": "We\u2019ve got agents for dry skin conditions!A creamy, indulgent moisturizer that provides long-lasting, dewy hydration.This rich yet lightweight moisturizer deeply hydrates and nourishes dry, depleted skin. This formula is a unique blend of time-tested apothecary herbs, including powerful, nourishing witch hazel and molokhia extracts, rich in antioxidant polyphenols and minerals, which help to prevent dryness and leave the skin naturally luminous. More than a moisturizer, it smooths texture and helps to neutralize skin-damaging free radicals.What it is formulated WITHOUT:\n\n\u00a0\u00a0\u00a0 Parabens\n\u00a0\u00a0\u00a0 Sulfates\n\u00a0\u00a0\u00a0 Phthalates\n\nWhat else you need to know:This dermatologist tested product is free of mineral oil, petrolatum, synthetic preservatives, dyes, and fragrances, and animal origin ingredients.",
+    "price": "46.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/c/r/creme-hydratante-en-profondeur-52100602.jpg",
+    "category": "Skin Care"
+  },
+  "69": {
+    "name": "Milky moisturizer hydra balancing ",
+    "description": "A lightweight, milky moisturizer formulated with sage extract that leaves skin hydrated, balanced, and soothed.",
+    "price": "46.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/l/a/lait-hydratant-equilibrant-52100603.jpg",
+    "category": "Skin Care"
+  },
+  "70": {
+    "name": "Oil control moisturizer fresh",
+    "description": "For oily skin? Yes!An oil-free moisturizer that controls oil, refines pores, and leaves skin hydrated and smooth.This formula is a unique blend of time-tested apothecary herbs, including rosehip, a powerful vitamin-C packed ingredient. The fresh, lightweight texture controls oil and refines pores while providing hydration for a smooth, supple, and fresh feel.What it is formulated WITHOUT:\n\nParabens\nSulfates\nPhthalates\n\nWhat else you need to know:This dermatologist tested product is free of mineral oil, petrolatum, synthetic preservatives, dyes, fragrances, and animal origin ingredients.",
+    "price": "46.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/h/y/hydratant-controle-dhuile-52100604.jpg",
+    "category": "Skin Care"
+  },
+  "71": {
+    "name": "Creamy cleansing foam moist",
+    "description": "A vitamin-C packed creamy foam cleanser with natural herbs that gently yet effectively remove makeup and impurities while hydrating the skin.",
+    "price": "29.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/o/mousse-nettoyante-hydratante-en-creme-52100610.jpg",
+    "category": "Skin Care"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "1": {
+    "name": "DR.BELMEUR Mild Derma Deep Moisturizing Mask",
+    "description": "The gauze mask sheet drenched with Moisturizing Ceramide\u2122 serum (a mixture of ceramide and Vitamin E derivative) nourishes and deeply moisturizes sensitive skin.\n*Eco-friendly fabric*\n*Dermatologically tested*\n*Natural fragrance - citrus herbal rose floral fragrance*\u00a0\n\n",
+    "price": "4.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-deep-moisturizing-face-mask.jpg",
+    "category": "Mask"
+  },
+  "2": {
+    "name": "DR.BELMEUR Mild Derma Firming Mask",
+    "description": "The gauze mask sheet drenched with\u00a0Firming Energy Complex\u00a0serum (a combination of propolis and vitamin B12) protects the skin barrier for a firming effect.\n*Eco-friendly fabric*\n*Dermatologically tested*\n*Natural fragrance - citrus herbal rose floral fragrance*\u00a0",
+    "price": "4.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-firming-face-mask_1.jpg",
+    "category": "Mask"
+  },
+  "3": {
+    "name": "DR.BELMEUR Mild Derma Deep Hydrating Mask",
+    "description": "The gauze mask sheet drenched with\u00a0Ultra-Hyaluronic Acid\u2122\u00a0serum (a combination of hyaluronic acid and provitamin B5) hydrates flaky skin with moisture.\n*Eco-friendly fabric*\n*Dermatologically tested*\n*Natural fragrance - citrus herbal rose floral fragrance*\u00a0",
+    "price": "4.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-deep-hydrating-face-mask.jpg",
+    "category": "Mask"
+  },
+  "4": {
+    "name": "DR.BELMEUR Mild Derma Radiant Mask",
+    "description": "The gauze mask sheet drenched with\u00a0Super Bright Complex\u2122\u00a0serum (a combination of glutathione and vitamin B3) creates a radiant, hydrated complexion.\n*Eco-friendly fabric*\n*Dermatologically tested*\n*Natural fragrance - citrus herbal rose floral fragrance*\u00a0",
+    "price": "4.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-radiant-face-mask.jpg",
+    "category": "Mask"
+  },
+  "5": {
+    "name": "DR.BELMEUR Mild Derma Pore Care Mask",
+    "description": "The gauze mask sheet drenched with\u00a0Balancing Vitamin C\u2122\u00a0serum (a combination of tannin and vitamin C) takes care of pores and balances the skin's oil and moisture level.\n*Eco-friendly fabric*\n*Dermatologically tested*\n*Natural fragrance - citrus herbal rose floral fragrance*\u00a0",
+    "price": "4.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-pore-care-face-mask.jpg",
+    "category": "Mask"
+  },
+  "6": {
+    "name": "DR.BELMEUR Intense Face Mask Cica Peptide",
+    "description": "The 5-layered rayon mask sheet contains the efficacy of the whole bottle of\u00a0Skin-sync Rx\u2122: PEPTITE. This intense face mask with ingredients extracted from Centella Asiatica and Peptide complex, which helps to create a firm skin barrier.\u00a0\n*Dermatologically tested*\n*Formulated without potential 26 types of fragrance allergens*\u00a0",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-intense-face-mask-cica-peptide.jpg",
+    "category": "Mask"
+  },
+  "7": {
+    "name": "DR.BELMEUR Intense Mask Vita Serine",
+    "description": "The 5-layered rayon mask sheet contains the efficacy of the whole bottle of\u00a0Vita Serine\u00a0ampoule. This concentrated face mask features a vitamin complex (vitamin C derivative, vitamin B3 and provitamin B5)*, serine and hyaluronic acid to restore radiance to dull skin.\u00a0\n*Dermatologically tested*\n*Natural fragrance - lavender oil, chamomile flower oil, bergamot oil, lime oil and rosemary leaf oil*\u00a0",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/b/db-intense-face-mask.jpg",
+    "category": "Mask"
+  },
+  "8": {
+    "name": "SMILE FOOT Peeling Mask",
+    "description": "A unique, innovative foot scrub!\nGet feet that look rejuvenated after the first use! Simply put the masks on like socks and enjoy a spa-like treatment at home.",
+    "price": "12.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/s/m/smile-foot-masque-exfoliant-pour-les-pieds-30600035.jpg",
+    "category": "Mask"
+  },
+  "9": {
+    "name": "REAL NATURE Face Mask Mung Bean",
+    "description": "The Mungo Bean Real Nature Face Mask leaves skin clear and radiant. In just a couple of minutes, it helps eliminate impurities that clog your pores, to leave your skin dazzling.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_mungbean.jpg",
+    "category": "Mask"
+  },
+  "10": {
+    "name": "SMILE FOOT Mask",
+    "description": "Pamper your feet and get silky soft skin with the Smile Foot masks. So easy to use, they allow you to relax while they nourish and hydrate your feet's damaged skin.\nContains 2 single-use foot mask.",
+    "price": "5.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/s/m/smile-foot-mask-30600034.jpg",
+    "category": "Mask"
+  },
+  "11": {
+    "name": "REAL NATURE Face Mask Bamboo",
+    "description": "Get younger looking skin and an even complexion with the Bamboo Real Nature Face Mask. The hydrating and purifying properties of bamboo make it perfect for fighting the first signs of aging.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-bamboo_.jpg",
+    "category": "Mask"
+  },
+  "12": {
+    "name": "JEJU VOLCANIC LAVA Pore Mud Pack ",
+    "description": "Treat your pores! This mud pack contains volcanic ash from Jeju Island and helps absorb sebum while cleansing pores.About Jeju Volcanic Lava : This purifying pore line contains volcanic ash from Jeju Island, a rare natural ingredient that effectively absorbs sebum and cleanses the pores, and an urban defense complex to protect skin from pollution and make it clean and clear.\n",
+    "price": "22.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/j/e/jeju-volcanic-lava-masque-de-boue-pour-les-pores-34350021.jpg",
+    "category": "Mask"
+  },
+  "13": {
+    "name": "REAL NATURE Face Mask Blueberry",
+    "description": "The Blueberry Real Nature Face Mask leaves skin soft and toned. Soothing blueberry extract helps restore skin's suppleness and vitality and prevents oxidation.\u00a0\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-_blueberry_.jpg",
+    "category": "Mask"
+  },
+  "14": {
+    "name": "REAL NATURE Face Mask Calendula",
+    "description": "The mask sheet drenched in a smooth serum with oil with soothing Calendula helps smooth dry, rough, dead surface cells.\nParaben free formula.\u00a0",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_calendula.jpg",
+    "category": "Mask"
+  },
+  "15": {
+    "name": "YEHWADAM Revitalizing Moisturizing Sleeping Pack",
+    "description": "Formulated with Fresh Flower Water, a secret formula that consists of 5 types of traditional herbal ingredients including Korean Ginseng, Safflower and Goji berries, this revitalizing sleeping pack restores moisture to skin overnight leaving it looking refreshed the next morning.\u00a0",
+    "price": "34.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-revitalizing-moisturizing-sleeping-mask.jpg",
+    "category": "Mask"
+  },
+  "16": {
+    "name": "Peat miracle clay mask",
+    "description": "Our belief to support natural skin turnover, revealing pure and youthful skin. This creamy non-drying clay mask formulated with one of the purest forms of Peat- a rare botanical extremely rich in minerals and organic acids- gently resurfaces the skin and helps tighten enlarged pores for a luminous, smooth complexion.\u00a0",
+    "price": "49.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/p/e/peat-miracle-revital-clay-mask.jpg",
+    "category": "Mask"
+  },
+  "17": {
+    "name": "First Aid anti-hangover mask",
+    "description": "Our belief to calm and relieve your sensitive, stressed skin. Formulated with Chamomile, this mask has powerful calming effects, and Xylitol soothing capsules to help prevent skin troubles. Your new best friend after a long night out.",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/f/i/first-aid-anti-hangover-mask-52100591.jpg",
+    "category": "Mask"
+  },
+  "18": {
+    "name": "First Aid transforming peel off mask",
+    "description": "Leaves skin clear, moisturized, and pore-refined in as little as 15 minutes\r\n\r\nA gently exfoliating peel-off mask that leaves skin clear, moisturized, and pore-refined in as little as 15 minutes.\r\n\r\nThis peel-off mask gently exfoliates to remove dead skin cells from skin and minimize the appearance of pores. This unique peel-off formula is formulated with lemon balm and white willow bark, a natural salicylic acid, which helps to clarify and soothe skin. It instantly transforms into a thin gel upon contact with water for easy, no-fuss removal, leaving skin clear, luminous, and smooth. Great for all skin types, it improves skin elasticity and helps remove skin-damaging free radicals.What it is formulated WITHOUT:\r\nParabens Sulfates Phthalates \r\nWhat else you need to know:\r\nThis dermatologist tested product is free of mineral oil, SLS, synthetic preservative, dye, and fragrance, and animal origin ingredients.\n",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/a/masque-pelable-transformant-52100597.jpg",
+    "category": "Mask"
+  },
+  "19": {
+    "name": "First Aid overnight brightening mask",
+    "description": "Even and radiant skin tone\r\n\r\nA brightening mask that can be left on overnight to reveal radiant skin by morning.\r\n\r\nThis creamy, lightweight brightening mask can be left on skin overnight to reveal a luminous, refreshed complexion. It\u2019s formulated with black truffle extract, one of the world\u2019s finest delicacies, and visible capsules of amber, pearl, and gold powder to awaken instant and visible luminosity. This versatile mask can also be used instead of a moisturizer in your usual skincare routine to give an additional boost of hydration and brightness to skin.\r\novernight-brightening-maskWhat it is formulated WITHOUT:\r\nParabens Sulfates Phthalates \r\nWhat else you need to know:\r\nThis dermatologist tested is free of mineral oil, petrolatum, synthetic preservatives, dyes, and fragrances, and animal origin ingredients.",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/a/masque-de-nuit-eclaircissant-52100598.jpg",
+    "category": "Mask"
+  },
+  "20": {
+    "name": "First Aid 360 eye care mask",
+    "description": "A leave-on, intensively moisturizing mask with a pudding-like texture that provides a 360-degree eye care for delicate and sensitive eye areas.",
+    "price": "39.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/f/i/first-aid-360-eye-care-mask-52100894.jpg",
+    "category": "Mask"
+  },
+  "21": {
+    "name": "REAL NATURE Face Mask Lingzhi",
+    "description": "The mask sheet drenched with emulsified moisturizing serum with Lingzhi Extract firms and helps improve the resilience of sagging skin.Formula is without added parabens.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-lingzhi.jpg",
+    "category": "Mask"
+  },
+  "22": {
+    "name": "REAL NATURE Face Mask Olive",
+    "description": "This Real Nature Face Mask leaves skin supple and smooth in an instant. Contains olive extract to provide intense hydration as it nourishes the epidermis.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_olive.jpg",
+    "category": "Mask"
+  },
+  "23": {
+    "name": "THE SOLUTION Brightening Face Mask",
+    "description": "This face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Pearl powder provides a brightening solution to dull skin.  (Brightening care / Formulated without added parabens)\n20 g / 0.7 OZ",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-solution-masque-eclaircissant-pour-le-visage-32500419_1.png",
+    "category": "Mask"
+  },
+  "24": {
+    "name": "THE SOLUTION Firming Face Mask",
+    "description": "This face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Collagen provides a resilience solution to saggy skin.  (Wrinkle care / Formulated without added parabens)\n20 g / 0.7 OZ",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-solution-masque-raffermissant-pour-le-visage-32500421_1.png",
+    "category": "Mask"
+  },
+  "25": {
+    "name": "THE SOLUTION Nourishing Face Mask",
+    "description": "This face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Propolis provides a nourishing solution to exhausted skin. (Wrinkle care / Formulated without added parabens)  (Wrinkle care / Formulated without added parabens)\n20 g / 0.7 OZ",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-solution-masque-nourrissant-pour-le-visage-32500423_1.png",
+    "category": "Mask"
+  },
+  "26": {
+    "name": "THE SOLUTION Pore Care Face Mask",
+    "description": "This face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Tannins helps reduce shine and provides a pore care solution to oily skin.  (Formulated without added parabens)\n20 g / 0.7 OZ",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-solution-masque-correcteur-de-pores-pour-le-visage-32500425_1.png",
+    "category": "Mask"
+  },
+  "27": {
+    "name": "BIO-CELL Moisturizing Face Mask",
+    "description": "This moisturizing mask features a naturally adhesive bio-cellulose sheet and a hydrating serum containing multi-sized Hyaluronic Acid particles. (Dermatologist Tested / Formulated without added parabens)\n25 g / 0.88 OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/b/i/bio-cell-masque-hydratant-pour-le-visage-32500433.png",
+    "category": "Mask"
+  },
+  "28": {
+    "name": "BIO-CELL Brightening Face Mask",
+    "description": "This brightening mask features a naturally adhesive bio-cellulose sheet and a hydrating serum containing Glutathione to give you a bright, healthy complexion. (Dermatologist Tested / Formulated without added parabens)\n25 g / 0.88 OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/b/i/bio-cell-masque-eclaircissant-pour-le-visage-32500434.png",
+    "category": "Mask"
+  },
+  "29": {
+    "name": "BIO-CELL Firming Face Mask",
+    "description": "This firming mask features a naturally adhesive bio-cellulose sheet and a Collagen serum. It restores elasticity and firmness to give you baby-like skin. (Dermatologist Tested / Formulated without added parabens)\n25 g / 0.88 OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/b/i/bio-cell-masque-raffermissant-pour-le-visage-32500435.png",
+    "category": "Mask"
+  },
+  "30": {
+    "name": "MASK.LAB Double Wrap Face Mask",
+    "description": "This intensely moisturizing mask features a double-wrapping sheet with a layer of special film that locks in moisture and effectively promotes the absorption of ceramide serum.",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/a/mask.lab-double-wrap-face-mask-32500440.jpg",
+    "category": "Mask"
+  },
+  "31": {
+    "name": "MASK.LAB Chitosan Face Mask",
+    "description": "Containing 50% Chitosan Fibre and an exfoliating serum with both AHA and BHA, this purifying mask effectively absorbs surface impurities and removes dead skin cells.\u00a0",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/a/mask.lab-chitosan-face-mask-32500441.jpg",
+    "category": "Mask"
+  },
+  "32": {
+    "name": "MASK.LAB Anti-Aging Foil Face Mask",
+    "description": "The dual-structured sheet, which is covered with a layer of powerful foil, prevents the anti-aging essence from evaporating and allows it to effectively absorb into skin to make it firmer.",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/a/mask.lab-anti-aging-foil-face-mask-32500442.jpg",
+    "category": "Mask"
+  },
+  "33": {
+    "name": "REAL NATURE Face Mask Kelp",
+    "description": "This Face Mask purifies skin, leaving it soft to the touch. It contains kelp extract to help eliminate impurities and protect skin from pollution. Perfect for urban dwellers! Contains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/realnaturekelp.jpg",
+    "category": "Mask"
+  },
+  "34": {
+    "name": "REAL NATURE Face Mask Shea Butter",
+    "description": "The sheet mask contains handful on nutritional essence, providing natural moisture and nourishment to the skin.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-shea-butter.jpg",
+    "category": "Mask"
+  },
+  "35": {
+    "name": "REAL NATURE Face Mask Aloe",
+    "description": "Your skin will be soft and supple in a couple of minutes with this Aloe Face Mask. The aloe extract, with soothing properties, offers softness and hydration to skin.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-aloe-32500516.jpg",
+    "category": "Mask"
+  },
+  "36": {
+    "name": "REAL NATURE Face Mask With Cucumber Extract",
+    "description": "The moisture recharging mask sheet with Cucumber essence provides cool moisture to dull, dry skin to quench its thirst. (Drenched in clear serum / Formula without added parabens).\nSingle use Face Mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_cumumber_1.jpg",
+    "category": "Mask"
+  },
+  "37": {
+    "name": "REAL NATURE Face Mask Lemon",
+    "description": "This mask illuminates your skin and gives you a flawless complexion! Enriched with lemon extract with brightening properties, it will even out your complexion in an instant!\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_lemon.jpg",
+    "category": "Mask"
+  },
+  "38": {
+    "name": "REAL NATURE Face Mask Rice",
+    "description": "The Rice Real Nature Face Mask offers you a dazzling, even complexion. Known for its brightening properties, rice extract helps reduce the appearance of age spots and illuminates the skin.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-rice-32500519.jpg",
+    "category": "Mask"
+  },
+  "39": {
+    "name": "REAL NATURE Face Mask Honey",
+    "description": "Get radiant and illuminated skin in an instant with this Honey Face Mask. The honey extract, with its nourishing properties, reveals younger looking, invigorated skin.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-honey-32500523.jpg",
+    "category": "Mask"
+  },
+  "40": {
+    "name": "REAL NATURE Face Mask Avocado",
+    "description": "Improve your skin's suppleness and elasticity with this Avocado Face Mask. Rich in nutrients, the hydrating serum contained in this mask is perfect for dry or very dry skin.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_avocado.jpg",
+    "category": "Mask"
+  },
+  "41": {
+    "name": "REAL NATURE Face Mask Pomegranate",
+    "description": "This Pomegranate Face Mask reduces the appearance of the first signs of aging and helps improve skin's elasticity. Rich in antioxidants, pomegranate provides skin with long-lasting hydration and a radiant complexion.\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-pomegranate-32500525.jpg",
+    "category": "Mask"
+  },
+  "42": {
+    "name": "REAL NATURE Face Mask Tea Tree",
+    "description": "The refreshing and soothing sheet mask with tea tree extract helps smooth skin that is shiny due to excess oil. (Water-type essence/ Formulated without 5 additives: parabens, triethanolamine, propylene glycol, tar colorant, mineral oil)\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-tea-tree-32500526.jpg",
+    "category": "Mask"
+  },
+  "43": {
+    "name": "REAL NATURE Face Mask Lotus",
+    "description": "The mask sheet drenched in a smooth serum with oil with the pure energy of Lotus Flower moisturizes and gives tired, rough skin a boost of radiance.Formula is without added parabens.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_lotus.jpg",
+    "category": "Mask"
+  },
+  "44": {
+    "name": "REAL NATURE Face Mask Green Tea",
+    "description": "The mask sheet drenched in a clear serum with Green Tea soothes skin irritated by environmental stressors, refreshing and revitalizing it.Formula is without added parabens.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_greentea_1.jpg",
+    "category": "Mask"
+  },
+  "45": {
+    "name": "REAL NATURE Face Mask Red Ginseng",
+    "description": "The mask sheet drenched with emulsified moisturizing serum with revitalizing Red Ginseng provides skin with a boost of energy and vitality.Formula is without added parabens.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/n/rn_ginseng.jpg",
+    "category": "Mask"
+  },
+  "46": {
+    "name": "REAL NATURE Face Mask Potato",
+    "description": "The soothing sheet mask with potato extract provides a cooling sensation to relieve skin that looks tired due to exposure to strong sunlight. (Water-type essence/ Formulated without 5 additives: parabens, triethanolamine, propylene glycol, tar colorant, mineral oil)\nContains one single-use face mask.",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/r/e/real-nature-face-mask-potato-32500539.jpg",
+    "category": "Mask"
+  },
+  "47": {
+    "name": "MASK.LAB Lift Up Face Mask",
+    "description": "A 2-step face mask that contains collagen, peptide and adenosine that deeply nourishes sagging skin and promotes elasticty and hydratation.The bamboo cellulose sheet gently tightens sagging skin to improve the appearance of the facial silhouette.The serum with collagen, peptides and adenosine (a wrinkle care ingredient) nourishes sagging skin to promote elasticity and hydration.\u00a0Step 1: Lift-Up Mask SheetThe mask sheet features a tightening effect that promotes skin elasticity.Step 2: Lift-Up Elasticity BandSimply place the straps around your ears. The ultra-elastic band with convenient straps tightly wraps around the jaw to provide intensive firming action for a sharper-looking facial silhouette.\n",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/m/a/masklab-lift.jpg",
+    "category": "Mask"
+  },
+  "48": {
+    "name": "YEHWADAM Revitalizing Moisturizing Face Mask",
+    "description": "A biocellulose mask sheet, formulated with 5 types of fresh flower water and the energy of wild Korean herbs, soothes, moisturizes and relieves skin, leaving it looking radiant.\u00a0\n",
+    "price": "7.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-revitalizing-moisturizing-face-mask-34400106.jpg",
+    "category": "Mask"
+  },
+  "49": {
+    "name": "YEHWADAM Heaven Grade Ginseng Regenerating Intense Face Mask",
+    "description": "The hydrogel sheet packed with the energy of 6-year old ginseng root, wild pine mushroom and a rejuvenating formula called Yaksanbang restores firmness and delivers energy to skin.About Yehwadam Regenerating: Anti-aging skincare line that improves overall skin health from the inside out with the help of traditional Korean herbs, ginseng and flowers. Yehwadam products are made with natural Korean ingredients processed by traditional methods passed down from one generation to another.\n",
+    "price": "10.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-heaven-grade-ginseng-regenerating-intense-face-mask-34400115.jpg",
+    "category": "Mask"
+  },
+  "50": {
+    "name": "YEHWADAM Pure Brightening Nourishing Face Mask",
+    "description": "The 2- Step programming face mask consists of essence patches that provide intensive care to problem areas and a brightening mask sheet that helps illuminate your entire skin tone.\u00a0\n",
+    "price": "10.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/y/e/yehwadam-pure-brightening-nourishing-face-mask-34400122.jpg",
+    "category": "Mask"
+  },
+  "51": {
+    "name": "DR.BELMEUR Daily Repair Soothing Gauze Sheet Mask",
+    "description": "A low-irritant calming and moisturizing mask sheet with lansil, an excellent moisturizer that keeps skin hydrated and cool for a long time. Formulated with the daily low-irritant moisturizing solution Skin-sync Rx\u2122 which its 3 key ingredients help form a moisture layer to calm dry skin : phytoshpingosine (protects and strengthens skin barrier), moroheiya (retains moisture by restoring moisture in skin\u2019s barrier) and birch tree sap (calms redness & soothes skin).*Formulated without 10 additives (parabens synthetic pigments, phenoxyethanol, mineral oil, benzophenone-3, animal-derived ingredients, propylene glycol, ethanol, talc, benzoic acid) or artificial fragranceAbout Dr.Belmeur Daily Repair: A premium derma-cosmetic skincare line that uses plant-based ingredients that have similar components to our skin. Dermatologically tested, this line provides gentle skincare and barrier-enhancing solution to common skin problems. The Daily Repair offers a custom-made formula that helps improve sensitive skin.\n",
+    "price": "4.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/r/dr.belmeur-daily-repair-soothing-gauze-sheet-mask-34420009.jpg",
+    "category": "Mask"
+  },
+  "52": {
+    "name": "Aqua bomb sheet mask 5-pack",
+    "description": "A sheet mask saturated in the number one Aqua Bomb formula to provide an instant explosion of hydration to quench parched, dehydrated skin.",
+    "price": "50.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/a/q/aqua-bomb-sheet-mask-5-pack-52100775.jpg",
+    "category": "Mask"
+  },
+  "53": {
+    "name": "Aqua bomb sheet mask",
+    "description": "A sheet mask saturated in the number one Aqua Bomb formula to provide an instant explosion of hydration to quench parched, dehydrated skin.",
+    "price": "11.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/a/q/aqua-bomb-sheet-mask-52100776.jpg",
+    "category": "Mask"
+  },
+  "54": {
+    "name": "THE SOLUTION Moisturizing Face Mask",
+    "description": "This face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Ceramides provides a moisturizing solution to dry, rough skin.\u00a0(Formulated without added parabens)\n\n20\u00a0g / 0.7 OZ",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-solution-masque-hydratant-pour-le-visage-32500418_3.png",
+    "category": "Mask"
+  },
+  "55": {
+    "name": "THE SOLUTION Hydrating Face Mask",
+    "description": "This face mask features a light-as-air sheet that feels soft and weightless on skin. A serum containing Hyaluronic Acid helps dry, thirsty skin lock in moisture. (Formulated without added parabens)\n20 g / 0.7 OZ",
+    "price": "3.50",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/t/h/the-solution-masque-hydratant-pour-le-visage-32500417_2.png",
+    "category": "Mask"
+  }
+}

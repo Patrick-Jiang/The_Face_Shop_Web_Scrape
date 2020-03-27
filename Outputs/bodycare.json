@@ -1,0 +1,79 @@
+{
+  "1": {
+    "name": "My Plant Hand Cream - Good Luck",
+    "description": "Hand cream with agave syrup which moisturizes your skin with mild and refreshing scent.",
+    "price": "11.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/3/0/30500221_my_plant_hand_cream_01_good_luck_2_.jpg",
+    "category": "Body Care"
+  },
+  "2": {
+    "name": "My Plant Hand Cream - Good Job",
+    "description": "Hand cream with agave syrup which moisturizes your skin and features a fragrance that energizes and soothes.",
+    "price": "11.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/3/0/30500222_my_plant_hand_cream_02_good_job.jpg",
+    "category": "Body Care"
+  },
+  "3": {
+    "name": "DAILYPERFUMED Hand Cream Rose Water",
+    "description": "Rose Water daily parfumed hand cream30 ml / 1.00 FL OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/a/dailyperfumed-creme-mains-eau-de-rose-30500149.jpg",
+    "category": "Body Care"
+  },
+  "4": {
+    "name": "DAILYPERFUMED Hand Cream Tiare",
+    "description": "Tiare daily parfumed hand cream \n30 ml / 1.00 FL OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/a/dailyperfumed-creme-mains-tiare-30500150.jpg",
+    "category": "Body Care"
+  },
+  "5": {
+    "name": "DAILYPERFUMED Hand Cream Apple Pop",
+    "description": "Apple Pop daily parfumed hand cream\n30 ml / 1.00 FL OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/a/dailyperfumed-creme-mains-bonbon-a-la-pomme-30500151.jpg",
+    "category": "Body Care"
+  },
+  "6": {
+    "name": "DAILYPERFUMED Hand Cream Berry Mix",
+    "description": "Berry Mix daily parfumed hand cream\n30 ml / 1.00 FL OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/a/dailyperfumed-creme-mains-melange-de-baies-30500152.jpg",
+    "category": "Body Care"
+  },
+  "7": {
+    "name": "DAILYPERFUMED Hand Cream Green Tea",
+    "description": "Green Tea daily parfumed hand cream\n30 ml / 1.00 FL OZ",
+    "price": "6.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/d/a/dailyperfumed-creme-mains-the-vert-30500153.jpg",
+    "category": "Body Care"
+  },
+  "8": {
+    "name": "SMILE FOOT Mask",
+    "description": "Pamper your feet and get silky soft skin with the Smile Foot masks. So easy to use, they allow you to relax while they nourish and hydrate your feet's damaged skin.\nContains 2 single-use foot mask.",
+    "price": "5.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/s/m/smile-foot-mask-30600034.jpg",
+    "category": "Body Care"
+  },
+  "9": {
+    "name": "SMILE FOOT Peeling Mask",
+    "description": "A unique, innovative foot scrub!\nGet feet that look rejuvenated after the first use! Simply put the masks on like socks and enjoy a spa-like treatment at home.",
+    "price": "12.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/s/m/smile-foot-masque-exfoliant-pour-les-pieds-30600035.jpg",
+    "category": "Body Care"
+  },
+  "10": {
+    "name": "Body bomba - Lemon Verbena",
+    "description": "A rich, oil-based body lotion powered by the refreshing lemon verbena, a refreshing herb that invigorates while comfrey leaf helps hydrate dull, depleted skin for instantly glowy, smoother-looking skin. Innovative oil in emulsion technology allows for quicker drying time while locking in moisture.",
+    "price": "32.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/b/o/body-bomba---lemon-verbena-52100825.jpg",
+    "category": "Body Care"
+  },
+  "11": {
+    "name": "Body bomba - Ylang Ylang",
+    "description": "A rich, oil-based body lotion powered by the refreshing lemon verbena, a refreshing herb that invigorates while comfrey leaf helps hydrate dull, depleted skin for instantly glowy, smoother-looking skin. Innovative oil in emulsion technology allows for quicker drying time while locking in moisture.",
+    "price": "32.00",
+    "img_link": "https://ca.naturecollection.com/media/catalog/product/cache/e96373d1c57081d0b326a3dfa1f55e67/b/o/body-bomba---ylang-ylang-52100826.jpg",
+    "category": "Body Care"
+  }
+}
