@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import os.path
 
 categories = ["Cleansers", "Masks", "SkinCare", "Makeup", "BodyCare"]
 
@@ -53,27 +54,27 @@ for item in items:
     bodycare_links.append(a['href'])
 
 # Output the address to csv file
-with open('cleansers_link.csv', 'w') as file:
+with open(os.path.join('Outputs', 'cleansers_link.csv'), 'w') as file:
     for line in cleansers_link:
         file.write(line)
         file.write('\n')
 
-with open('masks_links.csv', 'w') as file:
+with open(os.path.join('Outputs', 'masks_links.csv'), 'w') as file:
     for line in masks_links:
         file.write(line)
         file.write('\n')
 
-with open('skincare_links.csv', 'w') as file:
+with open(os.path.join('Outputs', 'skincare_links.csv'), 'w') as file:
     for line in skincare_links:
         file.write(line)
         file.write('\n')
 
-with open('makeup_links.csv', 'w') as file:
+with open(os.path.join('Outputs', 'makeup_links.csv'), 'w') as file:
     for line in makeup_links:
         file.write(line)
         file.write('\n')
 
-with open('bodycare_links.csv', 'w') as file:
+with open(os.path.join('Outputs', 'bodycare_links.csv'), 'w') as file:
     for line in bodycare_links:
         file.write(line)
         file.write('\n')

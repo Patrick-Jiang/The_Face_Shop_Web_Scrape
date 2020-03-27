@@ -47,7 +47,10 @@ for line in cleansers_link:
     print("Description: " + description)
     print("Price: " + price)
     cleansers_item_dict.update(
-        {id: {'name': title, 'description': description, 'price': price, 'img_link': img_link}})
+        {id: {'name': title, 'description': description, 'price': price, 'img_link': img_link, 'category': 'Cleansers'}})
     id += 1
 
 pprint.pprint(cleansers_item_dict)
+
+with open('cleansers.json', 'w') as fp:
+    json.dump(cleansers_item_dict, fp)
