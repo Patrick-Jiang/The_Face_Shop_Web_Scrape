@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pprint
 import json
+import os.path
 
 cleansers_item_dict = dict()
 cleansers_link = []
@@ -52,5 +53,5 @@ for line in cleansers_link:
 
 pprint.pprint(cleansers_item_dict)
 
-with open('cleansers.json', 'w') as fp:
+with open(os.path.join('Outputs', 'cleansers.json'), 'w') as fp:
     json.dump(cleansers_item_dict, fp)
